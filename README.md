@@ -28,7 +28,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Shehan Hasantha and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost 3 years and worked with many languages and technologies.
+Welcome to my GitHub Page. I am Shehan Hasantha and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost 3 years and worked with many languages and technologies.
 </p>
 
 ## My favorite tools and technologies ⚙️
