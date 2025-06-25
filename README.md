@@ -2,21 +2,21 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
 </h1>
 
-<div align="center">
+<div align="left">
 
   <!-- YouTube -->
   <a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
   <!-- X (Twitter) -->
   <a href="https://x.com/mdshasantha?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
