@@ -1,20 +1,22 @@
-<h1> Hello there.. I'm Shehan Hasantha <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
-<div align="justify">
+<h1> Hello there.. I'm Shehan Hasantha 
+  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
+</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/mdshasantha?s=21">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+<div align="center">
+  <!-- YouTube -->
+  <a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <!-- X / Twitter -->
+  <a href="https://x.com/mdshasantha?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
+
 
 <p></p>
 <p align="justify">
