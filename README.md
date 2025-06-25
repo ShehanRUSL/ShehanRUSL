@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-    <!-- Custom X (Twitter) -->
   <a href="https://x.com/mdshasantha?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNC4xLjUyaC0zLjY1bC00Ljg4IDYuNjQtNS42Mi02LjY0SDMuNzNsNi4zNSA3LjE1LTYuNSA4Ljg2aDQuMjhsNS4zLTcuMDUgNi4xNCA3LjA1aDMuNzRsLTYuNzktNy41NSA2LjAzLTguNDN6Ii8+PC9zdmc+" alt="X" />
-  </a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 
 
 </div>
