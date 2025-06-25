@@ -184,43 +184,7 @@ Welcome to my GitHub Page. I am Shehan Hasantha and now Computer engineering stu
 </details>
 
 
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/ShehanRUSL/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanRUSL&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/ShehanRUSL/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rShehanRUSL&repo=telegram-bot-template&theme=default" />
- </a>
 
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/ShehanRUSL/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/ShehanRUSL?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShehanRUSL&row=1&margin-w=40)](https://github.com/ShehanRUSL/github-profile-trophy)
 
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> 
