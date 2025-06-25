@@ -5,21 +5,19 @@
 <div align="left">
 
   <!-- YouTube -->
-  <a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX" target="_blank">
+  <a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340" target="_blank">
+  <a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://x.com/mdshasantha?s=21" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-
+  <!-- Twitter -->
+  <a href="https://x.com/mdshasantha?s=21" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 
 </div>
 
