@@ -3,19 +3,24 @@
 </h1>
 
 <div align="center">
+
   <!-- YouTube -->
   <a href="https://youtube.com/@shehanhasantha2270?si=GcknWE6GqTBugvYX" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
-  <!-- X / Twitter -->
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/mdshasantha?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shehan-hasantha-bb381b340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+
 </div>
+
 
 
 <p></p>
