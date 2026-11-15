@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 👋 Hello World! Welcome to My GitHub Profile
+### 👋 Hello! Welcome to My GitHub Profile
 
 ### 📊 Aspiring Data Analyst | 💻 Programming Enthusiast | 🇱🇰 Sri Lanka
 
